@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298163390923",
+    "project_id": "minifootball-61ecb",
+    "storage_bucket": "minifootball-61ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298163390923:android:b0ebe3c9e3273f5d268e4e",
+        "android_client_info": {
+          "package_name": "com.example.minifootball"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhqetGkbr7wE0TIDOLtdF6P5NzmDxicQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
